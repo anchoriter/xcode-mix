@@ -59,3 +59,10 @@
 
 ![3.png](https://raw.githubusercontent.com/radish2012/xcode-mix/master/3.png)
 
+
+
+# 效果图
+
+![5.png](https://raw.githubusercontent.com/radish2012/xcode-mix/master/5.png)
+
+![6.png](https://raw.githubusercontent.com/radish2012/xcode-mix/master/6.png)
