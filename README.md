@@ -27,6 +27,8 @@
 增加更多的分支函数，扰乱代码执行分支。
 
 
+![4.png](https://raw.githubusercontent.com/radish2012/xcode-mix/master/4.png)
+
 1.1版本:
 
 支持部分cpp文件，
@@ -41,7 +43,6 @@
 
 方便来自window系统的工程
 
-![2.png](https://raw.githubusercontent.com/radish2012/xcode-mix/master/2.png)
 
 
 
@@ -49,7 +50,6 @@
 
 一键操作，支持普通的app，u3d工程
 
-![1.png](https://raw.githubusercontent.com/radish2012/xcode-mix/master/1.png)
 
 
 
