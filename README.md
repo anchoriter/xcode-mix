@@ -1,4 +1,5 @@
 # xcode-mix
+https://github.com/radish2012/xcode-mix/compare/31b4c67719aadc31aa64c2e4810542504ccf71c7...b916e9793eeed258a6be1d843f12e8cfcc71b3b2
 
 # 联系QQ 237162532
 
