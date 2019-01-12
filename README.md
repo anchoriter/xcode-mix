@@ -52,12 +52,18 @@ https://github.com/radish2012/xcode-mix/compare/31b4c67719aadc31aa64c2e481054250
 
 # 版本记录：
 
+# 1.3版本
+
+优化工程文件修改
+优化过滤文件修改，用户可以自己添加过滤容易错误的文件，可以适配更多的工程
+区分app，与u3d
+
+![10.png](https://raw.githubusercontent.com/radish2012/xcode-mix/master/10.png)
+
 # 1.2版本:
 
 增加更多的分支函数，扰乱代码执行分支。
 
-
-![4.png](https://raw.githubusercontent.com/radish2012/xcode-mix/master/4.png)
 
 # 1.1版本:
 
