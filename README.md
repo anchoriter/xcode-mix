@@ -89,7 +89,7 @@ https://github.com/radish2012/xcode-mix/compare/31b4c67719aadc31aa64c2e481054250
 
 
 
-# 工程文件转码工具
+# 工程文件转码工具 重新调整中
 
 因为很多工程文件是从window 转移而来，存在编码问题，所以提供一份转码工具
 
