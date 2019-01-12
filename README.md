@@ -60,6 +60,12 @@ https://github.com/radish2012/xcode-mix/compare/31b4c67719aadc31aa64c2e481054250
 
 ![10.png](https://raw.githubusercontent.com/radish2012/xcode-mix/master/10.png)
 
+
+![11.png](https://raw.githubusercontent.com/radish2012/xcode-mix/master/11.png)
+
+
+![12.png](https://raw.githubusercontent.com/radish2012/xcode-mix/master/12.png)
+
 # 1.2版本:
 
 增加更多的分支函数，扰乱代码执行分支。
