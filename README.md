@@ -103,6 +103,12 @@ https://github.com/radish2012/xcode-mix/compare/31b4c67719aadc31aa64c2e481054250
 https://github.com/radish2012/FileToUtf8ForMac
 
 
+#app icon 生成工具
+
+自动生成匹配各个版本 xcode icon的工具
+
+https://github.com/radish2012/appIconMake
+
 
 # 效果图
 
