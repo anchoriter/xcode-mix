@@ -99,7 +99,8 @@ https://github.com/radish2012/xcode-mix/compare/31b4c67719aadc31aa64c2e481054250
 
 因为很多工程文件是从window 转移而来，存在编码问题，所以提供一份转码工具
 
-![3.png](https://raw.githubusercontent.com/radish2012/xcode-mix/master/3.png)
+下载地址 
+https://github.com/radish2012/FileToUtf8ForMac
 
 
 
