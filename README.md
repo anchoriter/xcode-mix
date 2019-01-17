@@ -17,7 +17,6 @@ https://github.com/radish2012/xcode-mix/compare/31b4c67719aadc31aa64c2e481054250
 
 # 功能说明：
 
-不支持cocos2dx
 
 1自动修改工程名（工程名和target name 要一致才有效果。）
 
