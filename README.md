@@ -123,3 +123,9 @@ https://github.com/radish2012/appIconMake
 ![5.png](https://raw.githubusercontent.com/radish2012/xcode-mix/master/5.png)
 
 ![6.png](https://raw.githubusercontent.com/radish2012/xcode-mix/master/6.png)
+
+
+# 脸好的人。。记住是应用
+
+![15.png](https://raw.githubusercontent.com/radish2012/xcode-mix/master/15.png)
+
