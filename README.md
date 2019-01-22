@@ -57,7 +57,7 @@ https://github.com/radish2012/xcode-mix/compare/31b4c67719aadc31aa64c2e481054250
 
 增加对cocos2dx 的支持，但是效果就不知道了
 
-![13.png](https://raw.githubusercontent.com/radish2012/xcode-mix/master/13.png)
+![16.png](https://raw.githubusercontent.com/radish2012/xcode-mix/master/16.png)
 
 
 # 1.3版本
