@@ -55,6 +55,8 @@ https://github.com/radish2012/xcode-mix/compare/31b4c67719aadc31aa64c2e481054250
 
 # 1.4版本
 
+放弃使用@selector
+
 cocos2d-x 开发告一段落。
 
 ![16.png](https://raw.githubusercontent.com/radish2012/xcode-mix/master/16.png)
