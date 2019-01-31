@@ -18,15 +18,8 @@ https://github.com/radish2012/xcode-mix/compare/31b4c67719aadc31aa64c2e481054250
 # 功能说明：
 
 
-1自动修改工程名（工程名和target name 要一致才有效果。）
+防止苹果跟踪，跟新细节和功能就不说了
 
-2修改文件名
-
-3添加函数
-
-4自动调用函数
-
-5修改部分图片命名
 
 
 # 记得备份项目
@@ -50,14 +43,11 @@ https://github.com/radish2012/xcode-mix/compare/31b4c67719aadc31aa64c2e481054250
 
 
 
-
 # 版本记录：
 
 # 1.4版本
 
-放弃使用@selector
-
-cocos2d-x 开发告一段落。
+防止苹果跟踪，跟新细节就不说了
 
 ![16.png](https://raw.githubusercontent.com/radish2012/xcode-mix/master/16.png)
 
@@ -79,29 +69,14 @@ cocos2d-x 开发告一段落。
 
 # 1.2版本:
 
-增加更多的分支函数，扰乱代码执行分支。
 
 
 # 1.1版本:
-
-支持部分cpp文件，
-
-减少重命名后引用命错误问题，
-
-提高混淆稳定性，
-
-提高自动调用方法稳定性，
-
-增加文件编码转换工具，
-
-方便来自window系统的工程
-
 
 
 
 # 1.0版本:
 
-一键操作，支持普通的app，u3d工程
 
 
 
@@ -121,11 +96,6 @@ https://github.com/radish2012/FileToUtf8ForMac
 https://github.com/radish2012/appIconMake
 
 
-# 效果图
-
-![5.png](https://raw.githubusercontent.com/radish2012/xcode-mix/master/5.png)
-
-![6.png](https://raw.githubusercontent.com/radish2012/xcode-mix/master/6.png)
 
 
 # 脸好的人。。记住是应用
