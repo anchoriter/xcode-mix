@@ -18,7 +18,7 @@ https://github.com/radish2012/xcode-mix/compare/31b4c67719aadc31aa64c2e481054250
 # 功能说明：
 
 
-防止苹果跟踪，跟新细节和功能就不说了
+防止苹果跟踪，功能就不说了
 
 
 
@@ -47,7 +47,7 @@ https://github.com/radish2012/xcode-mix/compare/31b4c67719aadc31aa64c2e481054250
 
 # 1.4版本
 
-防止苹果跟踪，跟新细节就不说了
+防止苹果跟踪，更新细节就不说了
 
 ![16.png](https://raw.githubusercontent.com/radish2012/xcode-mix/master/16.png)
 
