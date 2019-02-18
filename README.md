@@ -53,50 +53,6 @@ https://github.com/radish2012/xcode-mix/compare/31b4c67719aadc31aa64c2e481054250
 
 
 
-# 1.3版本
-
-优化工程文件修改
-优化过滤文件修改，用户可以自己添加过滤容易错误的文件，可以适配更多的工程
-区分app，与u3d
-
-![10.png](https://raw.githubusercontent.com/radish2012/xcode-mix/master/10.png)
-
-
-![11.png](https://raw.githubusercontent.com/radish2012/xcode-mix/master/11.png)
-
-
-![12.png](https://raw.githubusercontent.com/radish2012/xcode-mix/master/12.png)
-
-# 1.2版本:
-
-
-
-# 1.1版本:
-
-
-
-# 1.0版本:
-
-
-
-
-
-# 工程文件转码工具
-
-因为很多工程文件是从window 转移而来，存在编码问题，导致工具运行奔溃，所以提供一份转码工具
-
-下载地址 
-https://github.com/radish2012/FileToUtf8ForMac
-
-
-# app icon 生成工具
-
-自动生成匹配各个版本 xcode icon的工具
-
-https://github.com/radish2012/appIconMake
-
-
-
 
 # 脸好的人。。记住是应用
 
