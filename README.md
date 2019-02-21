@@ -51,9 +51,6 @@ https://github.com/radish2012/xcode-mix/compare/31b4c67719aadc31aa64c2e481054250
 
 ![16.png](https://raw.githubusercontent.com/radish2012/xcode-mix/master/16.png)
 
-
-![10.png](https://raw.githubusercontent.com/radish2012/xcode-mix/master/10.png)
-	
 	
 ![11.png](https://raw.githubusercontent.com/radish2012/xcode-mix/master/11.png)
 	
