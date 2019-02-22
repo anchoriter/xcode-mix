@@ -45,11 +45,11 @@ https://github.com/radish2012/xcode-mix/compare/31b4c67719aadc31aa64c2e481054250
 
 # 版本记录：
 
-# 1.4版本
+# 1.6版本
 
 防止苹果跟踪，更新细节就不说了
 
-![16.png](https://raw.githubusercontent.com/radish2012/xcode-mix/master/16.png)
+![20.png](https://raw.githubusercontent.com/radish2012/xcode-mix/master/20.png)
 
 	
 ![11.png](https://raw.githubusercontent.com/radish2012/xcode-mix/master/11.png)
