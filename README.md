@@ -50,7 +50,7 @@ https://github.com/radish2012/xcode-mix/compare/31b4c67719aadc31aa64c2e481054250
 
 防止苹果跟踪，更新细节就不说了
 
-![20.png](https://raw.githubusercontent.com/radish2012/xcode-mix/master/20.png)
+![20.png](https://raw.githubusercontent.com/radish2012/xcode-mix/master/21.png)
 
 	
 ![11.png](https://raw.githubusercontent.com/radish2012/xcode-mix/master/11.png)
