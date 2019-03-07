@@ -61,3 +61,16 @@ https://github.com/radish2012/xcode-mix/compare/31b4c67719aadc31aa64c2e481054250
 
 ![15.png](https://raw.githubusercontent.com/radish2012/xcode-mix/master/15.png)
 
+
+# 遇到无法打开
+
+![30.png](https://raw.githubusercontent.com/radish2012/xcode-mix/master/30.png)
+
+可以查看系统权限
+
+![31.png](https://raw.githubusercontent.com/radish2012/xcode-mix/master/31.png)
+
+
+
+
+
